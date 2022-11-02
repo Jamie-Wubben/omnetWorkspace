@@ -1,0 +1,3 @@
+package omnetardusim;
+
+@license(LGPL);
